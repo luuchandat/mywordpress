@@ -11,7 +11,7 @@
 	<title>Game &#8211; TOP 5 MỌI THỨ</title>
 	<atom:link href="http://localhost/myproject/wordpress/index.php/category/game/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luuchandat.github.io/mywordpress</link>
-	<description>Ở đây chúng tôi tổng hợp</description>
+	<description></description>
 	<lastBuildDate>Tue, 14 Sep 2021 12:55:54 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://luuchandat.github.io/mywordpress/wp-content/uploads/2021/09/cropped-top4-32x32.jpg</url>
+	<title>Game &#8211; TOP 5 MỌI THỨ</title>
+	<link>https://luuchandat.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>TOP 5 GAME HAY ĐỂ CHƠI CÙNG BẠN BÈ</title>
 		<link>https://luuchandat.github.io/mywordpress/index.php/2021/08/30/top-5-tua-game-choi-cung-ban-be-hay/</link>

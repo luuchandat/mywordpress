@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://luuchandat.github.io/mywordpress/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://luuchandat.github.io/mywordpress/wp-content/uploads/2021/09/cropped-top4-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://luuchandat.github.io/mywordpress/wp-content/uploads/2021/09/cropped-top4-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://luuchandat.github.io/mywordpress/wp-content/uploads/2021/09/cropped-top4-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://luuchandat.github.io/mywordpress/wp-content/uploads/2021/09/cropped-top4-270x270.jpg">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
