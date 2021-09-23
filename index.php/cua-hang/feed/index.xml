@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sản phẩm &#8211; TOP 5 MỌI THỨ</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luuchandat.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 22 Sep 2021 11:43:42 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://luuchandat.github.io/mywordpress/wp-content/uploads/2021/09/cropped-top4-32x32.jpg</url>
+	<title>Sản phẩm &#8211; TOP 5 MỌI THỨ</title>
+	<link>https://luuchandat.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VANS CLASSIC SK8-HI BLACK/WHITE</title>
+		<link>https://luuchandat.github.io/mywordpress/index.php/sản%20phẩm/vans-classic-sk8-hi-black-white/</link>
+					<comments>https://luuchandat.github.io/mywordpress/index.php/sản%20phẩm/vans-classic-sk8-hi-black-white/#respond</comments>
+		
+		<dc:creator><![CDATA[LuuChanDat]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 10:42:23 +0000</pubDate>
+				<guid isPermaLink="false">https://luuchandat.github.io/mywordpress/?post_type=product&#038;p=231</guid>
+
+					<description><![CDATA[Thương hiệu: VANS]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Thương hiệu: <span style="color: #00ff00;"><strong><span class="status_name">VANS</span></strong></span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luuchandat.github.io/mywordpress/index.php/sản%20phẩm/vans-classic-sk8-hi-black-white/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VANS OLD SKOOL CLASSIC BLACK/WHITE</title>
+		<link>https://luuchandat.github.io/mywordpress/index.php/sản%20phẩm/vans-old-skool-classic-black-white/</link>
+					<comments>https://luuchandat.github.io/mywordpress/index.php/sản%20phẩm/vans-old-skool-classic-black-white/#respond</comments>
+		
+		<dc:creator><![CDATA[LuuChanDat]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 10:28:50 +0000</pubDate>
+				<guid isPermaLink="false">https://luuchandat.github.io/mywordpress/?post_type=product&#038;p=212</guid>
+
+					<description><![CDATA[Thương hiệu: VANS]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Thương hiệu: <span style="color: #00ff00;"><strong><span class="status_name">VANS</span></strong></span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luuchandat.github.io/mywordpress/index.php/sản%20phẩm/vans-old-skool-classic-black-white/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
