@@ -9,7 +9,7 @@
 
 <channel>
 	<title>LuuChanDat &#8211; MN Shop</title>
-	<atom:link href="http://localhost/myproject/wordpress/author/luuchandat/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/myproject/wordpress/luuchandat/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luuchandat.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Wed, 15 Sep 2021 10:54:59 +0000</lastBuildDate>
