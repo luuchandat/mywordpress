@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ao khoac du &#8211; MN Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ao-khoac-du/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luuchandat.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Sep 2021 12:14:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>ÁO KHOÁC DÙ</title>
+		<link>https://luuchandat.github.io/mywordpress/san-pham/ao-khoac-du/</link>
+					<comments>https://luuchandat.github.io/mywordpress/san-pham/ao-khoac-du/#respond</comments>
+		
+		<dc:creator><![CDATA[LuuChanDat]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 12:14:02 +0000</pubDate>
+				<guid isPermaLink="false">https://luuchandat.github.io/mywordpress/?post_type=product&#038;p=353</guid>
+
+					<description><![CDATA[Chất liệu: vải dù Áo có mũ, có 2 túi]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Chất liệu: vải dù</li>
+<li>Áo có mũ, có 2 túi</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luuchandat.github.io/mywordpress/san-pham/ao-khoac-du/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
