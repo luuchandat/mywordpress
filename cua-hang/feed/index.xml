@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luuchandat.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Sat, 25 Sep 2021 16:10:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 11:05:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,12 @@
 		<pubDate>Fri, 24 Sep 2021 12:15:32 +0000</pubDate>
 				<guid isPermaLink="false">https://luuchandat.github.io/mywordpress/?post_type=product&#038;p=355</guid>
 
-					<description><![CDATA[Chất liệu: vải]]></description>
+					<description><![CDATA[Chất liệu: vải Nam giới cao từ 1m60 – 1m65, 51 -60kg: size M. Nam giới cao từ 1m66 – 1m70, 61 – 70kg: size L. Nam giới cao từ 1m71 – 1m75, 67]]></description>
 										<content:encoded><![CDATA[<ul>
 <li>Chất liệu: vải</li>
+<li class="TrT0Xe">Nam giới cao từ 1m60 – 1m65, 51 -60kg: <b>size</b> M.</li>
+<li class="TrT0Xe">Nam giới cao từ 1m66 – 1m70, 61 – 70kg: <b>size</b> L.</li>
+<li class="TrT0Xe">Nam giới cao từ 1m71 – 1m75, 67 – 75kg: <b>size</b> XL.</li>
 </ul>
 ]]></content:encoded>
 					
@@ -68,10 +71,9 @@
 		<pubDate>Fri, 24 Sep 2021 12:14:02 +0000</pubDate>
 				<guid isPermaLink="false">https://luuchandat.github.io/mywordpress/?post_type=product&#038;p=353</guid>
 
-					<description><![CDATA[Chất liệu: vải dù Áo có mũ, có 2 túi]]></description>
+					<description><![CDATA[Chất liệu: vải dù]]></description>
 										<content:encoded><![CDATA[<ul>
 <li>Chất liệu: vải dù</li>
-<li>Áo có mũ, có 2 túi</li>
 </ul>
 ]]></content:encoded>
 					
